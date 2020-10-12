@@ -4,7 +4,7 @@ celery==4.2.1
 certifi==2018.11.29
 chardet==3.0.4
 colorama==0.4.1
-Django==2.1.4
+Django==2.2.13
 django-celery-results==1.0.4
 django-cors-headers==2.4.0
 django-extra-fields==1.0.0
