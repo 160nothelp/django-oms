@@ -33,7 +33,7 @@
     "url": "https://github.com/PanJiaChen/vue-element-admin/issues"
   },
   "dependencies": {
-    "axios": "0.18.0",
+    "axios": "0.20.0",
     "element-ui": "2.4.11",
     "font-awesome": "^4.7.0",
     "fuse.js": "^3.4.4",
