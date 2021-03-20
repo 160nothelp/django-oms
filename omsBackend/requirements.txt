@@ -12,7 +12,7 @@ django-filter==2.0.0
 django-python3-ldap==0.11.2
 django-rest-auth==0.9.3
 django-uuslug==1.1.8
-djangorestframework==3.9.0
+djangorestframework==3.11.2
 djangorestframework-jwt==1.11.0
 dry-rest-permissions==0.1.10
 idna==2.7
