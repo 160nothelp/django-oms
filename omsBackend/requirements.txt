@@ -20,7 +20,7 @@ json-tools==0.4.1
 kombu==4.4.0
 ldap3==2.5
 lxml==4.2.3
-Pillow==5.4.1
+Pillow==8.2.0
 pyasn1==0.4.4
 pygame==1.9.4
 PyJWT==1.7.1
